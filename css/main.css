@@ -23,11 +23,13 @@ main {
     align-items: center;
     justify-content: space-between;
     width: 580px;
+    padding-bottom: 1.5rem;
 }
 
 .title
 {
-    margin-top: 2.5rem;
+    margin-top: 2.7rem;
+    margin-bottom: .5rem;
 }
 .title h2 {
     font-size: 1.8rem;
@@ -50,7 +52,7 @@ main {
 }
 .single {
     margin: 1.3rem 0;
-    padding: .2rem 1rem;
+    padding: .3rem 1rem;
     cursor: pointer;
 }
 .single:hover {
@@ -65,7 +67,8 @@ main {
 }
 .single p {
     font-size: .8rem;
-    color: var(--black-clr);
+    padding-top:.5rem;
+    color: #54595d;
 }
 .left,
 .right {
