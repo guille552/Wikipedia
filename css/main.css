@@ -183,7 +183,7 @@ section {
     outline: 1px solid var(--blue-clr);
 }
 .single-2 h4 {
-    color: #54595d;    
+    color: var(--blue-clr);
     font-weight: 400;
 }
 .single-2 p {
